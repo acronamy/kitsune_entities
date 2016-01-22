@@ -1,0 +1,49 @@
+{
+  "_args": [
+    [
+      "kitsune_entities/",
+      "/home/adam/node-www/kitsune-cms-1.1"
+    ],
+    [
+      "kitsune_entities/",
+      "/home/adam/node-www/kitsune-cms-1.1"
+    ]
+  ],
+  "_from": "node_modules/kitsune_entities",
+  "_id": "kitsune_entities@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/kitsune_entities",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": null,
+    "raw": "kitsune_entities/",
+    "rawSpec": "kitsune_entities/",
+    "scope": null,
+    "spec": "/home/adam/node-www/kitsune-cms-1.1/node_modules/kitsune_entities",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:node_modules/kitsune_entities",
+  "_shasum": "493a45297dcda7588fda33c623b4dd1c2162e8b8",
+  "_shrinkwrap": null,
+  "_spec": "kitsune_entities/",
+  "_where": "/home/adam/node-www/kitsune-cms-1.1",
+  "author": {
+    "name": "Adam Crockett"
+  },
+  "dependencies": {},
+  "description": "Enables parsing of entity types, for example, core entity types include Forms, Pages, Boxes, Themes, you can extend this list using the developer Api.",
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "index.js",
+  "name": "kitsune_entities",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
